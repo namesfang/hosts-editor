@@ -1,2 +1,2 @@
-# hosts-editor
-hostsæ–‡ä»¶ç¼–è¾‘å™¨
+# hostsEditor
+hostsEditorÊ¹ÓÃwinform¿ª·¢Ò»¿îhostsÎÄ¼ş±à¼­Æ÷£¬Ê¹ÓÃÇ°Çë×ÔĞĞ±¸·İ hosts ÎÄ¼ş£»ÈçÔËĞĞ´íÎóÇë°²×° .net framework 4.0 +µÄ°æ±¾
